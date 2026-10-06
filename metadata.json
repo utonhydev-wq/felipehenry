@@ -1,0 +1,6 @@
+{
+  "name": "Prof. Felipe Henry | A Guerra Travada",
+  "description": "Bio Site oficial do Prof. Felipe Henry, autor do livro A Guerra Travada – A Batalha contra a Ansiedade. Conheça a obra e acompanhe seus conteúdos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
